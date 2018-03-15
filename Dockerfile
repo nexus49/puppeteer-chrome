@@ -1,3 +1,4 @@
+# The basis for this dockerfile is: https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md
 FROM node:9-alpine
 
 # Installs latest Chromium (63) package.
